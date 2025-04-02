@@ -5,6 +5,6 @@ git commit
 git rm
 git status
 git diff
-
+git status(‚»‚Ì‚Q)
 
 
